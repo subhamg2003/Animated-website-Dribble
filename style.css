@@ -16,7 +16,6 @@ body{
 #page1{
     height: 135%;
     width: 100%;
-    /* background-color: rgb(195, 136, 136); */
 } 
 #nav{
     height: 120px;
@@ -25,7 +24,6 @@ body{
     align-items: center;
     justify-content: space-between;
     padding: 0 40px;
-    /* background-color: greenyellow; */
 }
 #nav-part1{
     width: 28%;
@@ -67,7 +65,6 @@ body{
     height: calc(100% - 120px);
     width: 100%;
     padding-top: 5vw;
-    /* background-color: chocolate; */
 }
 #content h3{
     background-color: #F8E39C;
@@ -110,7 +107,6 @@ body{
 #scroll{
     height: 48vh;
     width: 100%;
-    /* background-color: cadetblue; */
     white-space: nowrap;
     overflow-x: hidden;
     overflow-y: hidden;
@@ -119,7 +115,6 @@ body{
     display: inline-block;
     height: 100%;
     width: 100%;
-    /* background-color: darkgreen; */
     display: inline-block;
     animation-name: anime;
     animation-duration: 10s;
@@ -162,7 +157,6 @@ body{
 #page2{
     height: 180%;
     width: 100%;
-    /* background-color: greenyellow; */
     padding: 60px;
     position: relative;
 }   
@@ -227,7 +221,6 @@ body{
 #page3{
     height: 200px;
     width: 100%;
-    /* background-color: aquamarine; */
 }
 #end{
     width: 100%;
@@ -244,21 +237,17 @@ body{
     display: flex;
     align-items:center;
     justify-content:space-evenly;
-    /* background-color: cornflowerblue; */
     position: absolute;
     left: 300px;
     padding-right: 25px;
 }
 #end img{
     height: 70px;
-
     padding-left: 80px;
-    /* background-color: aliceblue; */
 }
 #end i{
     font-size: 20px;
     width: fit-content;
-    /* background-color: aqua; */
 }
 #end h4{
     font-size: 15px;
@@ -266,7 +255,6 @@ body{
 }
 #end h4:nth-child(8){
     padding-right: 35px;
-    /* background-color: chocolate; */
 }
 #end2{
     width: 28%;
@@ -276,7 +264,6 @@ body{
     top: 98%;
     right: 88%;
     justify-content: space-between;
-    /* background-color: blueviolet; */
 }
 #end2 h4{
     font-weight: 400;
